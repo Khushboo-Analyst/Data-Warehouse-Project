@@ -82,3 +82,6 @@ CREATE TABLE bronze_crm_sales_details (
     sls_sales     INT,
     sls_quantity  INT,
     sls_price     INT
+);
+
+
